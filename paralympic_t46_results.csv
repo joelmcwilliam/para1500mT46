@@ -1,0 +1,114 @@
+RANK,NPC,ATHLETE,TIME,ROUND,PARALYMPICS,YEAR,TIME_SECONDS
+1,ALG,Samir Nouioua,3:58.75,Final,Athens 2004,2004,238.75
+2,MAR,Abdelghani Gtaib,4:01.77,Final,Athens 2004,2004,241.77
+3,ALG,Mohamed Aissaoui,4:02.06,Final,Athens 2004,2004,242.06
+4,ALG,Farid Sehili,4:04.45,Final,Athens 2004,2004,244.45
+5,JPN,Naohiro Ninomiya,4:04.49,Final,Athens 2004,2004,244.49
+6,BRA,Ozivam Bonfim,4:05.29,Final,Athens 2004,2004,245.29
+7,CHN,Yuan Bang Wei,4:07.63,Final,Athens 2004,2004,247.63
+8,MEX,Pedro Meza Zempoaltecatl,4:08.26,Final,Athens 2004,2004,248.26
+9,SUI,Christoph Sommer,4:08.81,Final,Athens 2004,2004,248.81
+10,BRA,Moises Vicente,4:13.53,Final,Athens 2004,2004,253.53
+11,KEN,Stephen W. Musyoki,4:14.42,Final,Athens 2004,2004,254.42
+12,FRA,Emmanuel Lacroix,4:14.71,Final,Athens 2004,2004,254.71
+13,SCG,Zeljko Celikovic,4:22.02,Final,Athens 2004,2004,262.02
+1,ALG,Samir Nouioua,4:07.52,Heat 1,Beijing 2008,2008,247.52
+2,KEN,Abraham Tarbei,4:07.59,Heat 1,Beijing 2008,2008,247.59
+3,CHN,Ning Qin,4:08.18,Heat 1,Beijing 2008,2008,248.18
+4,AUS,Michael Roeger,4:09.62,Heat 1,Beijing 2008,2008,249.62
+5,MAR,Said Toumi,4:09.96,Heat 1,Beijing 2008,2008,249.96
+6,ETH,Ferej Mohammed Hibu,4:11.22,Heat 1,Beijing 2008,2008,251.22
+7,ALG,Mohamed Aissaoui,4:11.53,Heat 1,Beijing 2008,2008,251.53
+8,POL,Wojciech Golaski,4:13.83,Heat 1,Beijing 2008,2008,253.83
+9,POR,Jose Monteiro,4:13.98,Heat 1,Beijing 2008,2008,253.98
+10,BDI,Fidele Manirambona,4:16.54,Heat 1,Beijing 2008,2008,256.54
+11,JPN,Naohiro Ninomiya,4:16.79,Heat 1,Beijing 2008,2008,256.79
+12,CUB,Ernesto Blanco,4:20.77,Heat 1,Beijing 2008,2008,260.77
+1,ETH,Tesfalem Gebru Kebede,4:08.47,Heat 2,Beijing 2008,2008,248.47
+2,ESP,Abderrahman Ait Khamouch,4:08.67,Heat 2,Beijing 2008,2008,248.67
+3,POL,Marcin Awizen,4:09.57,Heat 2,Beijing 2008,2008,249.57
+4,TUN,Mohamed Fouzai,4:09.95,Heat 2,Beijing 2008,2008,249.95
+5,KEN,Stephen Wambua Musyoki,4:10.53,Heat 2,Beijing 2008,2008,250.53
+6,UKR,Oleh Leshchyshyn,4:11.35,Heat 2,Beijing 2008,2008,251.35
+7,ALG,Abdenour Rechidi,4:11.56,Heat 2,Beijing 2008,2008,251.56
+8,MAR,Driss Ouguerd,4:11.58,Heat 2,Beijing 2008,2008,251.58
+9,SUI,Christoph Sommer,4:12.45,Heat 2,Beijing 2008,2008,252.45
+10,BRA,Jose Alecrim,4:15.54,Heat 2,Beijing 2008,2008,255.54
+11,BDI,Leonidas Ahishakiye,4:16.78,Heat 2,Beijing 2008,2008,256.78
+1,KEN,Abraham Tarbei,3:52.50,Final,Beijing 2008,2008,232.5
+2,ESP,Abderrahman Ait Khamouch,3:53.46,Final,Beijing 2008,2008,233.46
+3,ALG,Samir Nouioua,3:53.63,Final,Beijing 2008,2008,233.63
+4,POL,Marcin Awizen,3:54.24,Final,Beijing 2008,2008,234.24
+5,ETH,Tesfalem Gebru Kebede,3:55.41,Final,Beijing 2008,2008,235.41
+6,KEN,Stephen Wambua Musyoki,3:57.21,Final,Beijing 2008,2008,237.21
+7,CHN,Ning Qin,3:58.23,Final,Beijing 2008,2008,238.23
+8,AUS,Michael Roeger,3:59.21,Final,Beijing 2008,2008,239.21
+9,MAR,Said Toumi,4:08.29,Final,Beijing 2008,2008,248.29
+10,ETH,Ferej Mohammed Hibu,4:16.74,Final,Beijing 2008,2008,256.74
+11,UKR,Oleh Leshchyshyn,4:17.96,Final,Beijing 2008,2008,257.96
+12,TUN,Mohamed Fouzai,4:41.87,Final,Beijing 2008,2008,281.87
+1,ALG,Samir Nouioua,3:57.27,Heat 1,London 2012,2012,237.27
+2,KEN,Jonah Kipkemoi Chesum,3:59.72,Heat 1,London 2012,2012,239.72
+3,AUS,Matthew Silcocks,4:05.48,Heat 1,London 2012,2012,245.48
+4,TUR,Cahit Kilicaslan,4:08.55,Heat 1,London 2012,2012,248.55
+5,ETH,Tesfalem Gebru Kebede,4:09.51,Heat 1,London 2012,2012,249.51
+6,BDI,Remy Nikobimeze,4:10.70,Heat 1,London 2012,2012,250.7
+7,PHI,Isidro Vildosola,4:30.42,Heat 1,London 2012,2012,270.42
+8,DJI,Houssein Omar Hassan,11:23.50,Heat 1,London 2012,2012,683.5
+1,KEN,Abraham Tarbei,3:59.79,Heat 2,London 2012,2012,239.79
+2,ETH,Wondiye Fikre Indelbu,4:00.21,Heat 2,London 2012,2012,240.21
+3,TUN,Mohamed Fouzai,4:01.23,Heat 2,London 2012,2012,241.23
+4,UGA,David Emong,4:01.54,Heat 2,London 2012,2012,241.54
+5,KEN,Stanley Cheruiyot,4:01.58,Heat 2,London 2012,2012,241.58
+6,USA,Chris Hammer,4:03.41,Heat 2,London 2012,2012,243.41
+7,ITA,Davide Dalla Palma,4:03.58,Heat 2,London 2012,2012,243.58
+8,RWA,Theoneste Nsengimana,4:08.83,Heat 2,London 2012,2012,248.83
+9,PAK,Naeem Masih,4:51.35,Heat 2,London 2012,2012,291.35
+1,KEN,Abraham Tarbei,3:50.15,Final,London 2012,2012,230.15
+2,ETH,Wondiye Fikre Indelbu,3:50.87,Final,London 2012,2012,230.87
+3,ALG,Samir Nouioua,3:51.80,Final,London 2012,2012,231.8
+4,UGA,David Emong,3:58.47,Final,London 2012,2012,238.47
+5,TUN,Mohamed Fouzai,3:58.79,Final,London 2012,2012,238.79
+6,AUS,Matthew Silcocks,3:59.79,Final,London 2012,2012,239.79
+7,KEN,Jonah Kipkemoi Chesum,4:00.38,Final,London 2012,2012,240.38
+8,TUR,Cahit Kilicaslan,4:00.77,Final,London 2012,2012,240.77
+9,USA,Chris Hammer,4:01.76,Final,London 2012,2012,241.76
+10,ITA,Davide Dalla Palma,4:02.26,Final,London 2012,2012,242.26
+11,KEN,Stanley Cheruiyot,4:02.54,Final,London 2012,2012,242.54
+1,ALG,Samir Nouioua,3:59.46,Final,Rio 2016,2016,239.46
+2,UGA,David Emong,4:00.62,Final,Rio 2016,2016,240.62
+3,AUS,Michael Roeger,4:01.34,Final,Rio 2016,2016,241.34
+4,TUN,Bechir Agoubi,4:05.07,Final,Rio 2016,2016,245.07
+5,RWA,Hermas Muvunyi,4:05.19,Final,Rio 2016,2016,245.19
+6,ETH,Hailu Haile,4:06.37,Final,Rio 2016,2016,246.37
+7,BUL,Hristiyan Stoyanov,4:08.99,Final,Rio 2016,2016,248.99
+8,BDI,Remy Nikobimeze,4:10.00,Final,Rio 2016,2016,250.0
+9,ETH,Astbha Gebre Gebremeskel,4:15.01,Final,Rio 2016,2016,255.01
+10,MAD,Revelinot Raherinandrasana,4:38.60,Final,Rio 2016,2016,278.6
+1,NA,Aleksandr Iaremchuk,3:52.08,Final,Tokyo 2020,2020,232.08
+2,BUL,Hristiyan Stoyanov,3:52.63,Final,Tokyo 2020,2020,232.63
+3,UGA,David Emong,3:53.51,Final,Tokyo 2020,2020,233.51
+4,ALG,Samir Nouioua,3:55.56,Final,Tokyo 2020,2020,235.56
+5,ETH,Gemechu Amenu Dinsa,3:56.04,Final,Tokyo 2020,2020,236.04
+6,KEN,Felix Kipruto,3:59.98,Final,Tokyo 2020,2020,239.98
+7,DEN,Christian Lykkeby Olsen,4:00.16,Final,Tokyo 2020,2020,240.16
+8,RWA,Hermas Muvunyi,4:00.46,Final,Tokyo 2020,2020,240.46
+9,GBR,Luke Nuttall,4:02.65,Final,Tokyo 2020,2020,242.65
+10,BDI,Remy Nikobimeze,4:05.44,Final,Tokyo 2020,2020,245.44
+11,ANG,Manuel Ernestro Jaime,4:09.79,Final,Tokyo 2020,2020,249.79
+12,CHN,Chaoyan Li,4:11.63,Final,Tokyo 2020,2020,251.63
+1.0,NPA,Aleksandr Iaremchuk,3:50.24,Final,Paris 2024,2024,230.24
+2.0,AUS,Michael Roeger,3:51.19,Final,Paris 2024,2024,231.19
+3.0,FRA,Antoine Praud,3:51.37,Final,Paris 2024,2024,231.37
+4.0,BUL,Hristiyan Stoyanov,3:52.27,Final,Paris 2024,2024,232.27
+5.0,ALG,Samir Nouioua,3:57.30,Final,Paris 2024,2024,237.3
+6.0,GBR,Luke Nuttall,3:57.62,Final,Paris 2024,2024,237.62
+7.0,ETH,Gemechu Amenu Dinsa,3:59.05,Final,Paris 2024,2024,239.05
+8.0,UGA,David Emong,4:01.48,Final,Paris 2024,2024,241.48
+9.0,SRI,Pradeep Puwakpitikande,4:01.84,Final,Paris 2024,2024,241.84
+10.0,DEN,Christian Olsen,4:02.76,Final,Paris 2024,2024,242.76
+11.0,CHI,Mauricio Esteban Orrego Campos,4:06.03,Final,Paris 2024,2024,246.03
+12.0,KEN,Wesley Kimeli Sang,4:07.92,Final,Paris 2024,2024,247.92
+13.0,TUN,Bechir Agoubi,4:09.72,Final,Paris 2024,2024,249.72
+14.0,BDI,Remy Nikobimeze,4:10.69,Final,Paris 2024,2024,250.69
+15.0,KOS,Grevist Bytyci,4:32.88,Final,Paris 2024,2024,272.88
