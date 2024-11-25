@@ -7,7 +7,7 @@ import plotly.express as px
 st.title('Paralympic 1500m T46 Results')
 
 # Add a header
-st.header('Results for Selected Athlete')
+st.header('Results for Selected Athletes')
 
 # Load data from CSV
 data = pd.read_csv("https://raw.githubusercontent.com/joelmcwilliam/para1500mT46/refs/heads/main/paralympic_t46_results.csv")
