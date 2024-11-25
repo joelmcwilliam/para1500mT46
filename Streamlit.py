@@ -10,7 +10,8 @@ st.title('Paralympic 1500m T46 Results')
 st.header('Results for Selected Athlete')
 
 # Load data from CSV
-data = pd.read_csv(https://raw.githubusercontent.com/joelmcwilliam/para1500mT46/refs/heads/main/paralympic_t46_results.csv)
+data = pd.read_csv("https://raw.githubusercontent.com/joelmcwilliam/para1500mT46/refs/heads/main/paralympic_t46_results.csv")
+
 
 # Create athlete multi-selection box with NPC, sorted by NPC
 athlete_options = [f"{row['NPC']} - {row['ATHLETE']}" for _, row in data[['NPC', 'ATHLETE']].drop_duplicates().sort_values('NPC').iterrows()]
